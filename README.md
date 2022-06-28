@@ -1,7 +1,6 @@
 👋 Hi
 
-I’m @AlmasFirdaus
-Informatics Student at Jember University
+I’m @AlmasFirdaus, Informatics Student at Jember University
 
 👀 I’m interested in Web Development
 
