@@ -2,6 +2,7 @@
 Informatics Student at Jember University
 
 👀 I’m interested in Web Development
+
 🌱 I’m currently learning about fullstack developer
 
 
