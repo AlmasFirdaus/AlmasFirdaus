@@ -4,7 +4,7 @@ I’m @AlmasFirdaus, Informatics Student at Jember University.
 
 👀 I’m interested in Web Development
 
-🌱 I’m currently learning about fullstack developer
+🌱 I’m currently learning about front-end developer
 
 
 <!---
